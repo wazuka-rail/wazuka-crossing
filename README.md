@@ -8,6 +8,9 @@ Miniature of a Japanese-style level crossing
 ## Simple Version (without level crossing barriers)
 [![Level Crossing Warning Sound Generator](https://img.youtube.com/vi/Fo-AsSxr2Go/0.jpg)](https://www.youtube.com/watch?v=Fo-AsSxr2Go)
 
+### Schematic
+![Schematic of the simple version](./images/simple_sch.png "Schematic of the simple version")
+
 ### MCU
 - PIC16F15213 PDIP / SOIC / DFN
 
@@ -19,7 +22,7 @@ Miniature of a Japanese-style level crossing
 | 4 | MCLR         | MCLR     |           |
 | 5 | PWM3         | PWM      | Speaker 1 |
 | 6 | ICSPCLK/PWM4 | ICSP/PWM | Speaker 2 |
-| 7 | ICSPDAT      | ICSP/DI  | Switch    |
+| 7 | ICSPDAT      | ICSP/DI  | Button    |
 | 8 | VSS          | VSS      |           |
 
 ## Timers
