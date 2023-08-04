@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Wazuka-Crossing - Simple Version")
+    (date "2023-07-31")
+    (rev "0")
+    (company "Wazuka Chagenkyo Railway")
+  )
+
   (layers
     (0 "F.Cu" mixed)
     (31 "B.Cu" signal)
