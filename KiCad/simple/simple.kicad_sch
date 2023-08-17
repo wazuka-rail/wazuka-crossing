@@ -1223,7 +1223,7 @@
     (property "Value" "0.1u" (at 105.41 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 102.5652 83.82 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 102.5652 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 101.6 80.01 0)
